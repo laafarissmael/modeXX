@@ -143,10 +143,10 @@ function loadProductDetails(productId) {
             price: "د.م.229.00",
             description: "Step into bold streetwear with the Error 404 Oversized Hoodie. Designed in deep black with a striking red 'Human Not Found' graphic, this hoodie makes a statement wherever you go. Crafted with soft, breathable fabric, it offers maximum comfort for everyday wear. The loose-fit cut and spacious pockets add a relaxed, urban vibe perfect for casual outings. A must-have for fashion-forward individuals who want comfort without sacrificing style. Pair it with jeans, joggers, or sneakers for the ultimate street look.",
             images: [
-                "https://i.postimg.cc/CK6dB496/0ZE8FYHF.png",
-                "https://i.postimg.cc/mk7QyqsD/ffdds.png",
-                "https://i.postimg.cc/BQ6SDFcr/zzeedd.png",
-                "https://i.postimg.cc/Vvh3XJm4/eeeddd.png"
+                "./images/images 1.png",
+                "./images/product 11.png",
+                "./images/product 12.png",
+                "./images/product 13.png"
             ]
         },
         2: {
@@ -154,7 +154,7 @@ function loadProductDetails(productId) {
             price: "د.م.229.00",
             description: "Step into bold streetwear with the Error 404 Oversized Hoodie. Designed in deep black with a striking red 'Human Not Found' graphic, this hoodie makes a statement wherever you go. Crafted with soft, breathable fabric, it offers maximum comfort for everyday wear. The loose-fit cut and spacious pockets add a relaxed, urban vibe perfect for casual outings. A must-have for fashion-forward individuals who want comfort without sacrificing style. Pair it with jeans, joggers, or sneakers for the ultimate street look.",
             images: [
-                "https://i.pinimg.com/736x/c9/e7/46/c9e746905cf7d68c154506cb05453f5f.jpg",
+                "./images/images 1.png",
                 "https://i.pinimg.com/736x/c9/e7/46/c9e746905cf7d68c154506cb05453f5f.jpg",
                 "https://i.pinimg.com/736x/c9/e7/46/c9e746905cf7d68c154506cb05453f5f.jpg",
                 "https://i.pinimg.com/736x/c9/e7/46/c9e746905cf7d68c154506cb05453f5f.jpg"
